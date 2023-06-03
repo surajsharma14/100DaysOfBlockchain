@@ -18,6 +18,32 @@ It’s precisely why the third iteration of the World Wide Web intends to restor
 Yes, we’re talking about the term first coined by Gavin Wood in 2014: Web3.
 
 
+## Day 2.
+ # Defining Web3
+ 
+ While there’s no fixed definition for Web3, it’s fair to say that decentralization, blockchain technology and token economies will play a major role in its realization. As hazy as this definition truly is, let’s illustrate why Web3 can make a difference, by examining how we use the internet today.
+
+It goes without saying that all of us use a service or product offered by Big Tech, be it Meta, Amazon, Apple, Google and Netflix. If you haven’t noticed already, whenever you use these services or products, you give these companies information about your likes and dislikes.Over time, a profile of your preferences are built.
+
+
+
+As a consequence, your data is sold to companies who would like to sell you more products or services. Literally, every keystroke and mouse click can be tracked when using their services and following which, the algorithms go about serving up more of what you want or need, based on your profile.
+
+In fact, your ISP can literally sell your data based on your browsing history. As unsavory as that might seem, this is the current state of the internet today, where our data is monetised by faceless conglomerates for the purpose of making greater profits.
+
+That’s not all: a change in the way content produced for the internet is monetized is necessary. In its current avatar, the internet gives you and me opportunities to produce content for centralized entities.
+
+
+
+Yet again, names like Tik Tok, Instagram and YouTube come to mind where the platforms tend to “rake in the moolah” while the producers are left counting pennies. That said, let’s not even get started about content ownership just yet. There’s a lot of hype about Web3 today as it promises the average user freedom from being just another user whose data is being harvested, which is stored at centralized data centers, for greater profit. So, how does Web3 intend to do things differently?
+
+With the elimination of the middle man - for example, Google or Meta - the centralization of data is taken out of the equation. No centralized data center or web server will hold your data anymore.In stark contrast, you will build and use apps that are on a decentralized state machine maintained by several anonymous nodes on the internet. There’s no better example than the first dapp Bitcoin which demonstrates these principles effectively.
+
+
+
+In other words, not only will your data be protected by Web3 but you also stand to gain much more for the content produced. Best part: thanks to blockchain technology, what you produce will also be identified as yours. For everyone to see.
+
+
 
 
 
