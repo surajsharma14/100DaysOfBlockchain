@@ -45,5 +45,18 @@ In other words, not only will your data be protected by Web3 but you also stand 
 
 
 
+## Day3
+# Evolution: Web1 vs. Web2 vs. Web3
 
+Even if our definition of Web3 explains the next iteration of the internet sufficiently, our understanding of this will not be complete without understanding how we have evolved when it comes to our roles as users too.
+
+As most people might be aware, the first iteration of the internet is now regarded to be Web1 while the second, which is said to have begun in 2004, is now collectively called Web2. Even if users today might not be aware of such changes, there was a time when we could only view static pages over the internet. Web2 gave users the ability to not only read but also produce content that was multimedia-rich in nature.
+
+
+
+At the same time as the internet rose to prominence, Big Tech was able to achieve a degree of centralization that wasn't possible, without such advancements in technology. In fact, every industry experienced a degree of centralization, thanks to numerous mergers and acquisitions made possible by being able to build commercial products using technology.
+
+In thriving for over two decades, Web2 has taken over each and everyone of our lives in a way that Web1 could never have, thanks to the lack of interactivity. Still, the issue is that while users get to create content of their own, it is fast becoming clear that along with being harvested for data, they aren't able to enjoy rewards for the content that they create either.
+
+With huge platforms no doubt giving them the opportunity to showcase their talent, the system does not remunerate them, in terms of financial rewards. Worse still, there is no clear way by which ownership of content can be established as soon as it is published, shared or broadcasted on said platform. This is another aspect that Web3 seeks to correct, so as to restore power back to the content creators, by giving credit to content producers and owners alike.
 
