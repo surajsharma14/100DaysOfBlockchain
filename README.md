@@ -60,3 +60,25 @@ In thriving for over two decades, Web2 has taken over each and everyone of our l
 
 With huge platforms no doubt giving them the opportunity to showcase their talent, the system does not remunerate them, in terms of financial rewards. Worse still, there is no clear way by which ownership of content can be established as soon as it is published, shared or broadcasted on said platform. This is another aspect that Web3 seeks to correct, so as to restore power back to the content creators, by giving credit to content producers and owners alike.
 
+
+## Day 5
+# What are the benefits for Web3 developers?
+
+If you’ve made it this far in the module, you’d understand that Web3 will take the internet in a completely different direction. It isn’t just the technologies that are different but just the mindset itself of what the future holds for those who have active online lives. This has far-reaching implications for Web3 developers too.
+
+Since there are so few experienced Web3 developers, the salaries offered are very competitive, ranging between $90,000 to $150,000 a year. Even if these salaries will taper off as the industry matures, it’s time to take that leap. NOW! Particularly, if you’re looking for a solid paycheck in the area of development. Better still, there’s plenty of opportunity for growth, given how nascent the industry still is.
+
+
+
+Now, as for the knowledge and skills necessary to make it as a Web3 developer, here’s a basic checklist to get started:
+1. Blockchain Fundamentals
+2. Dapps & Smart Contracts
+3. Programming Languages such as HTML, CSS, JavaScript, Rust & Solidity
+4. JavaScript frameworks such as Vue, Angular & React
+5. JavaScript libraries such as ether.js & web3.js
+6. Ethereum Fundamentals
+
+One must remember that with blockchain development evolving rapidly, these aren’t the only skills that are in demand. There are a host of blockchain platforms that will require you to upskill in a variety of programming languages and frameworks. That said, some parts of this checklist will be covered throughout this course as we make this journey into Web3 development.
+
+
+
