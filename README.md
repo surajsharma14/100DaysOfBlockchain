@@ -93,6 +93,15 @@ If anything, cryptocurrencies are but one use case of the blockchain. A prominen
 
 Before we do, let’s understand what the blockchain consists of.
 
+## Day 6
+# Parts of a Blockchain
+Even if Satoshi Nakamoto never explicitly used the term blockchain, the “chain of blocks” mentioned in his white paper meant the same thing.
+
+Each block, as shown in the diagram below, contains transactions that have been carried out over the network. Once they are added to the blockchain, each chain links two consecutive blocks in the form of a unique, fixed-length hash.
+
+![image](https://github.com/surajsharma14/100DaysOfBlockchain/assets/72158521/ce0a2c8f-503b-451c-8d2d-07494dbead62)
+
+
 
 
 
