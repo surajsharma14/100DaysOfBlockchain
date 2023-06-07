@@ -61,7 +61,7 @@ In thriving for over two decades, Web2 has taken over each and everyone of our l
 With huge platforms no doubt giving them the opportunity to showcase their talent, the system does not remunerate them, in terms of financial rewards. Worse still, there is no clear way by which ownership of content can be established as soon as it is published, shared or broadcasted on said platform. This is another aspect that Web3 seeks to correct, so as to restore power back to the content creators, by giving credit to content producers and owners alike.
 
 
-## Day 5
+## Day 4
 # What are the benefits for Web3 developers?
 
 If you’ve made it this far in the module, you’d understand that Web3 will take the internet in a completely different direction. It isn’t just the technologies that are different but just the mindset itself of what the future holds for those who have active online lives. This has far-reaching implications for Web3 developers too.
@@ -79,6 +79,22 @@ Now, as for the knowledge and skills necessary to make it as a Web3 developer, h
 6. Ethereum Fundamentals
 
 One must remember that with blockchain development evolving rapidly, these aren’t the only skills that are in demand. There are a host of blockchain platforms that will require you to upskill in a variety of programming languages and frameworks. That said, some parts of this checklist will be covered throughout this course as we make this journey into Web3 development.
+
+## Day 5
+# Is Blockchain and Cryptocurrency the same?
+
+Before we get into what makes up the blockchain and the Web3 stack, there’s one misconception that most people who are new to Web3 tend to have. Simply put, the terms blockchain and cryptocurrency tend to be used interchangeably.
+
+While the blockchain and the usual cryptocurrencies on the market today are related, they’re not the same thing. For starters, a cryptocurrency is a decentralized form of currency while the blockchain is part of the underlying technology that enables the use of said cryptocurrency. Let me reiterate: these two basic elements of Web3 are not the same thing.
+
+
+
+If anything, cryptocurrencies are but one use case of the blockchain. A prominent example of this is transacting with the Bitcoin cryptocurrency. But there are several other purposes for which the blockchain comes in handy and which is why we will discuss current use cases of the blockchain in a later section.
+
+Before we do, let’s understand what the blockchain consists of.
+
+
+
 
 
 
