@@ -101,6 +101,31 @@ Each block, as shown in the diagram below, contains transactions that have been 
 
 ![image](https://github.com/surajsharma14/100DaysOfBlockchain/assets/72158521/ce0a2c8f-503b-451c-8d2d-07494dbead62)
 
+As shown above, this hash is generated based on the data enclosed within each block, and which is taken as input in a cryptographic hashing function. In the case of Bitcoin, the SHA-256 hashing algorithm is used to generate these hashes. That said, since this is a one-way hashing function, there’s no way you can obtain the data stored in each block from the generated hash value.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module2/2-3.jpg
+
+As for what comprises each block, the diagram above lists its contents and which will be created through the act of mining and added to the blockchain.
+
+## Day 7
+# How Transactions are Added to the Blockchain
+Everything begins with a transaction between two people that requires wallets. In the case of Bitcoin, when Raghu sends some cryptocurrency to Hari, this “change” has to be recorded. In the case of fiat currency, the banks would record it on a centralized database and there would be no confusion.
+
+In Web3, and in the absence of a centralized database keeping these records, there’s a chance of ‘double spending’. In order to avoid this, the transaction will be verified and added to the blockchain. What this will mean is that every node in the ecosystem will keep a copy of the completed and verified transaction.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module2/2-1.jpg
+
+When it comes to validating the transactions on the network, a reward in the form of a cryptocurrency token is offered to miners. By definition, a miner is one who validates a transaction and who will be allowed to create a block while collecting a certain amount of cryptocurrency as the aforementioned reward.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module2/2-6.jpg
+
+
+How this works is that miners have to find a Nonce - a number that can be used only once - that will become part of a solution whose output is a hash. In fact, all computers on the network focus on generating a hash that is equal to or lesser than a “target hash” determined by the network. As a result, the first node to do so gets to add said block to the blockchain after providing the proof of work which involves determining the nonce.
+
+Otherwise known as a consensus mechanism, the proof-of-work mechanism isn’t the only type. The proof-of-stake mechanism involves staking the native token of the blockchain in order to enjoy the right to create new blocks. Adopting this type of consensus mechanism is much more energy efficient.
+
+Lastly, it must be pointed out that there are other types of transactional data that can be stored on the blockchain, and which isn’t limited to currency values.
+
 
 
 
