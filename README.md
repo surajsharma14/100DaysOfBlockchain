@@ -127,6 +127,20 @@ Otherwise known as a consensus mechanism, the proof-of-work mechanism isn’t th
 Lastly, it must be pointed out that there are other types of transactional data that can be stored on the blockchain, and which isn’t limited to currency values.
 
 
+## Day 8
+# Use Cases of the Blockchain
+
+Even if the most prominent use case for the blockchain today has to do with cryptocurrencies, its adoption across a wide cross-section of industries was imminent, thanks to the benefits that it offers.
+
+Financial Services
+Public Sector
+Internet of Things (IoT)
+Personal Identity Protection
+Logistics
+
+In addition, other use cases of the blockchain have appeared in areas of gaming, real estate and art as well. Some examples of games include Crypto Kitties and Decentraland while NFT Marketplaces such as OpenSea and Rarible help tokenize artwork. In addition, there are solid use cases for blockchain in real estate where companies like Propy Inc, SmartRealty and RealBlocks work with international property transactions, manage rental and purchase agreements and offer real estate investing opportunities. Still, even though investment in blockchain projects has been increasing steadily since 2017, challenges such as performance speed, costs, regulation and interoperability will remain a deterrence to its acceptance as a mainstream technology.
+
+
 
 
 
