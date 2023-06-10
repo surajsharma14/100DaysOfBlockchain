@@ -141,6 +141,24 @@ Logistics
 In addition, other use cases of the blockchain have appeared in areas of gaming, real estate and art as well. Some examples of games include Crypto Kitties and Decentraland while NFT Marketplaces such as OpenSea and Rarible help tokenize artwork. In addition, there are solid use cases for blockchain in real estate where companies like Propy Inc, SmartRealty and RealBlocks work with international property transactions, manage rental and purchase agreements and offer real estate investing opportunities. Still, even though investment in blockchain projects has been increasing steadily since 2017, challenges such as performance speed, costs, regulation and interoperability will remain a deterrence to its acceptance as a mainstream technology.
 
 
+## Day 9
+# All About Tokens
+
+Just about everyone has heard of the cryptocurrencies Bitcoin and Ether. Considered to be digital assets, they’ve also been known to be called crypto tokens as well. However, with these two terms used interchangeably, it’s important to understand the difference between a token and a cryptocurrency.
+
+While we already have cited two examples of popular cryptocurrencies, every blockchain ecosystem has its native token. But that’s not all: applications can also have their token too. In both instances, both types of tokens carry some value. The former is known as a Layer 1 token while the latter, a Layer 2 token. Not very different from conventional currency, the more tokens you have on a blockchain, the more you can do with these digital assets ranging from trading, investing or for use in other economic purposes.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module2/2-5.jpg
+
+However, one must also understand why tokens were first offered on a Bitcoin blockchain. Think of it as incentivizing positive behavior, which, in this case, involves validating transactions properly. Since any blockchain ecosystem wants its nodes to authenticate transactions, offering an incentive to honestly carry out this task deters them from carrying out any deceptive behavior.
+
+While using the Bitcoin token as a starting point, a lot has transpired when it comes to the issuance of tokens ever since its inception back in 2009. Only now, we have tokens that are offered with varying purposes: DeFi, security, governance and Non-Fungible tokens are some examples of this.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module2/2-2.jpg
+
+Over time, it’s been understood that each blockchain creates its own microeconomy, so its tokens must suit the workings of that ecosystem. In fact, this is the reason why an entire study that delves into how cryptocurrencies and tokens work in a blockchain ecosystem has evolved and is known by the portmanteau, tokenomics.
+
+
 
 
 
