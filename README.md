@@ -159,6 +159,24 @@ https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module2/2-
 Over time, it’s been understood that each blockchain creates its own microeconomy, so its tokens must suit the workings of that ecosystem. In fact, this is the reason why an entire study that delves into how cryptocurrencies and tokens work in a blockchain ecosystem has evolved and is known by the portmanteau, tokenomics.
 
 
+## Day 10
+# Getting Started with Web3 development: dApps & Smart Contracts
+
+Bitcoin is the first implementation of a dApp with the simplest version of smart contracts written in Bitcoin Script.
+
+This was until Ethereum came along and harnessed the power of blockchain technology through its platform so as to offer individuals and organizations the ability to build smart contracts to be implemented as part of the backend of dApps or as stand-alone financial instruments. For Vitalik, blockchain technology could be used in a number of use cases. Not just financial services.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module2/2-7.jpg
+
+If it isn’t obvious already, dApps are not very different from conventional applications that we use today, consisting of both a front-end and back-end. Given that Web3 is the next iteration of the current generation of the internet, it shouldn’t be surprising that current technologies such as HTML, CSS and JavaScript can be used to build the client side. As for the back-end, this consists of smart contracts written in Solidity. At least, in the case of the Ethereum platform.
+
+Speaking of which, you should think of smart contracts as a few lines of code - broken down into “methods” - that help you to perform transactions. The most common ones involve the transfer of financial information - receiving or sending units of cryptocurrency - based on contractual stipulations.
+
+
+
+One interesting use case for a smart contract could involve insurance payments in case disaster strikes. There’s nothing worse than waiting for an insurance claim to come through, especially if the payments can help with the monthly bills. With a smart contract, the insurance payment will be disbursed immediately, without the need for any third party holding up these payments.
+
+While another aspect of Web3 development involves working with the all-important consensus algorithms among other blockchain core development solutions, getting to build these Layer 1 solutions might require you to build a few Layer 2 solutions in the form of dApps and smart contracts. For this, you have to select the appropriate blockchain platform that best suits your coding skills among other technologies that are required for a fully-functioning dApp.
 
 
 
