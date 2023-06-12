@@ -178,6 +178,17 @@ One interesting use case for a smart contract could involve insurance payments i
 
 While another aspect of Web3 development involves working with the all-important consensus algorithms among other blockchain core development solutions, getting to build these Layer 1 solutions might require you to build a few Layer 2 solutions in the form of dApps and smart contracts. For this, you have to select the appropriate blockchain platform that best suits your coding skills among other technologies that are required for a fully-functioning dApp.
 
+# Day 11
+## The Web3 Stack
+
+Every developer worth his or her salt knows fully well that mastering the technology stack is the right way to build an application from the ground up. If you’ve seen a Java or Python implementation of the stack data structure, you’d understand that the technologies of any development niche are organized in this way too.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module2/2-9.jpg.png
+
+For example, if you take frontend development for Web2, there are three technologies that are used to build the user interface, namely HTML, CSS and JavaScript. Another example involves the MERN stack consisting of technologies such as MongoDB as well as the Express.js, React.js and Node.js frameworks. As you already know, you can use these technologies to build interactive websites or web applications. Not very differently, the Web3 stack, even if far more complex, is organized this way as well.
+
+Given the number of blockchain platforms, the technology stacks at our disposal are numerous. One can attribute this fragmented approach to development since these blockchain platforms have been built for a variety of use cases.
+
 
 
 
