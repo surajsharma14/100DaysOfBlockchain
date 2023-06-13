@@ -190,6 +190,22 @@ For example, if you take frontend development for Web2, there are three technolo
 Given the number of blockchain platforms, the technology stacks at our disposal are numerous. One can attribute this fragmented approach to development since these blockchain platforms have been built for a variety of use cases.
 
 
+# Day 12
+## Putting it all together: how does Web3 work?
+
+Until now, we have covered seemingly disparate topics but all of them have one thing in common: put together, they form a majority of the concepts or actual components needed to understand Web3 on the whole.
+
+For starters, when you look at the structure of the blockchain and how transactions are added, you can immediately see that decentralization is the focus here. In the case of Bitcoin, a transaction between two people doesn’t require a centralized entity such as a bank to keep a record of these transactions. All they need is a digital wallet. With building dapps and smart contracts, wallets are used to pay transaction fees.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module2/2-8.jpg
+
+With the blockchain being decentralized, immutable, trustless and extremely secure, it’s no wonder there are several use cases apart from the cryptocurrencies we hear about in the news. Still, tokens are integral to a blockchain ecosystem and how work gets done by validators, with either type of consensus mechanism running the blockchain.
+
+That said, since this session caters to budding Web3 developers, peering “under the hood” to understand the technologies of the Web3 stack makes sense before we get our hands dirty. Also, since blockchain technology applies to a variety of use cases with the Ethereum platform, understanding what smart contracts and dapps are important for those getting started as Web3 developers.
+
+That said, welcome to the Web3 space! We sincerely hope that these basics serve as a solid foundation and will help you move on to the next stage: building Layer 1 and 2 blockchain solutions as active Web3 developers for several industries and use cases.
+
+
 
 
 
