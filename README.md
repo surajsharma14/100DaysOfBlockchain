@@ -206,6 +206,17 @@ That said, since this session caters to budding Web3 developers, peering “unde
 That said, welcome to the Web3 space! We sincerely hope that these basics serve as a solid foundation and will help you move on to the next stage: building Layer 1 and 2 blockchain solutions as active Web3 developers for several industries and use cases.
 
 
+# Day 13 
+## The Future of Web3 : Introduction
+
+In the previous module, we looked at various terms that comprise the framework that we’ve come to know as Web3. We’ve also looked at the Web3 stack and its complexity. Finally, we’ve looked at how all these terms come together to work on the whole as part of Web3.
+
+![image](https://github.com/surajsharma14/100DaysOfBlockchain/assets/72158521/4c6118bc-a272-476f-b9da-535d2d4a4a9b)
+
+
+For this session, we will look at what makes Web3 better than Web2, the current state of Web3 today, the challenges that it faces in its nascent state and future applications of Web3. As a developer, you should be able to see the promise that Web3 offers as a full-time career, in terms of innovation and exploration.
+
+
 
 
 
