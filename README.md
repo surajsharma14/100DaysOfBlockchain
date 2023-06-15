@@ -217,6 +217,28 @@ In the previous module, we looked at various terms that comprise the framework t
 For this session, we will look at what makes Web3 better than Web2, the current state of Web3 today, the challenges that it faces in its nascent state and future applications of Web3. As a developer, you should be able to see the promise that Web3 offers as a full-time career, in terms of innovation and exploration.
 
 
+# Day 14
+## Why Web3?
+
+In an earlier module, we tried to understand why Web3 came into being in the first place. A lot of Web3 advocates believe that this iteration will be an obvious improvement over Web2 for a number of reasons.
+
+With Big Tech holding all our data on centralized servers and using it to their advantage, data privacy and security of individuals have been compromised while there’s a lot left to be desired when it comes to data scalability as well. As you should know, Big Tech includes companies such as Meta, Amazon, Apple, Netflix and Google.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module3/001.png
+
+While we have addressed data privacy issues earlier, there’s also the risk of unauthorized access to our data by virtue of massive data breaches that could potentially affect millions of customers. With a single point of failure, protecting data is a serious challenge with current implementations of client-server architecture that Big Tech deploys and maintains.
+
+Now, experts believe that the current centralized architecture that has been widely adopted isn’t the ideal way to deal with scalability. This property, in theory, occurs naturally with decentralized systems as you scale up horizontally.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module3/003.png
+
+I’ve mentioned “in theory” here because these distributed systems that have adopted a decentralized architecture have had scalability issues of their own. So, Web3 has its challenges which we will cover in a future section.
+
+Still, the benefits of Web3 are worth considering and why it is widely regarded as the next iteration of the internet. In short, Web3 aims to be: decentralized, permissionless, trustless, use native payments for the web
+
+In every way, Web3 intends to move away from nineteenth century technology in every way possible. Even if distributed computing isn’t new in any way but has been used in specialized situations.
+
+
 
 
 
