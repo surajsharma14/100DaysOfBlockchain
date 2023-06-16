@@ -239,6 +239,22 @@ Still, the benefits of Web3 are worth considering and why it is widely regarded 
 In every way, Web3 intends to move away from nineteenth century technology in every way possible. Even if distributed computing isn’t new in any way but has been used in specialized situations.
 
 
+# Day 15
+## Web3: Where are We Now?
+
+With all this talk about Web3 being the next iteration of the internet, it’s fair to question as to where we currently are at. Are we still smack in the middle of Web2? Or have we transitioned to a decentralized internet, as ambitious as this is?
+
+With the adoption of Bitcoin as the first cryptocurrency and the mission of Ethereum to lead the charge when it comes to making the transition to Web3, it should be clear that we’re long away from realizing these lofty technological goals.
+
+However, with DeFi experiencing a surge of interest in 2020 and a slew of public, private and permissioned blockchains being used, it’s clear good progress is being made towards the realization of an internet that exhibits the characteristics in the previous section. That said, it shouldn’t be surprising that some thought leaders believe that Web2 will only incorporate certain elements of Web3.
+
+When it comes to the number of developers working towards building this reality, Web3 doesn’t have the numbers, compared to other domains in which active development takes place. This is something that you must keep in mind, given that working as a Web3 developer can be lucrative and offer several chances for growth as Web3 works toward going mainstream. Even then, by 2030, the overall investment in blockchain technology will exceed US$ 1 trillion.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module3/image10.png
+
+Regardless of which, there are exciting developments in Web3 that will change every aspect of our lives. At least, for the coming years, artificial intelligence, Blockchain as a Service (BaaS), low code development platforms, the growth of NFTs, the Social Web and Flux. That said, the promise of Web3, despite being so nascent, looks so appealing that a number of traditional companies are getting in on the action.
+
+
 
 
 
