@@ -254,6 +254,18 @@ https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module3/im
 
 Regardless of which, there are exciting developments in Web3 that will change every aspect of our lives. At least, for the coming years, artificial intelligence, Blockchain as a Service (BaaS), low code development platforms, the growth of NFTs, the Social Web and Flux. That said, the promise of Web3, despite being so nascent, looks so appealing that a number of traditional companies are getting in on the action.
 
+# Day 16
+## Future Application 1: Crypto Adoption
+
+Visa and Mastercard are household names when it comes to payment processing. With payments amounting to several billions of dollars as recently as 2020, these financial giants have already entered the crypto market, as nascent as it is. For a fee, as usual.
+
+Visa, in particular, has launched a global crypto advisory practice to help its financial clients cope with these trends in the Fintech space. In fact, both Visa and Mastercard have already taken steps to adopt select cryptocurrencies, thanks to the number of crypto-based transactions that have been recorded in 2021 alone.
+
+
+For that matter, even American Express and Discover have taken initiatives to adopt crypto for their customers who want to invest. Clearly these companies are beginning to look at crypto as a brand new asset class that could prove to be valuable in the future, if it isn’t already.
+
+One thing’s for sure: as long as people want to purchase cryptocurrency with fiat currency, these payment processing firms will be around. If only, for a few years, of course. In fact, they do not look at the evolution of cryptocurrencies as a threat but more of an opportunity.
+
 
 
 
