@@ -267,6 +267,16 @@ For that matter, even American Express and Discover have taken initiatives to ad
 One thing’s for sure: as long as people want to purchase cryptocurrency with fiat currency, these payment processing firms will be around. If only, for a few years, of course. In fact, they do not look at the evolution of cryptocurrencies as a threat but more of an opportunity.
 
 
+# Day 17
+## Future Application 2: Virtual Web3 Schools
+
+All of us are familiar with the conventional education system where we are taught a fixed curriculum set by our respective country’s education departments - a centralized authority that might enjoy telling us what is right or wrong without allowing us to think for ourselves. What hasn’t helped is the way schools have struggled to transition to an online-only mode during the pandemic.
+
+
+Quite interestingly, a Web 3.0 school might just be what the doctor ordered since it not only uses the blockchain as a way to store student information but offers “premises” that students have to attend as a virtual school. For the latter, virtual reality can play a big role in building a school without needing to invest in expensive real estate for such a worthy goal.
+
+In fact, in allowing students to earn rewards with an NFT Marketplace, it’s very possible to set up a first-of-its-kind “learn to earn” model for school students. By gamifying the curriculum along with a greater use of technology, this is a wonderful way to reimagine education and propel it into the twenty-first century.
+
 
 
 
