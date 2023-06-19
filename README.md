@@ -278,5 +278,16 @@ Quite interestingly, a Web 3.0 school might just be what the doctor ordered sinc
 In fact, in allowing students to earn rewards with an NFT Marketplace, it’s very possible to set up a first-of-its-kind “learn to earn” model for school students. By gamifying the curriculum along with a greater use of technology, this is a wonderful way to reimagine education and propel it into the twenty-first century.
 
 
+# Day 18
+## Future Application 3: NFTs
 
+When you expand the acronym, an NFT is called a non-fungible token. Compared to fungible tokens, these cannot be exchanged for others as they are unique in nature and value. This property is what makes them distinct from cryptocurrencies that are fungible in nature. As you should know, cryptocurrencies have specific value and which is why it is easy to conduct transactions with any or all of them.
+
+First popularized by its use to tokenize digital art, a variety of NFTs can now be bought to indicate that you are the owner of these items, and not just pertaining to art. For example, if you owned a Pollock or Picasso painting, you could tokenize it on said blockchain platform for a unique value.
+
+Also known as NFT Marketplaces, SuperRare, OpenSea and Rarible are examples of such spaces where you can sell or purchase NFTs. Along with this, collections such as Crypto Punks, and the Bored Yacht Ape Club (BAYC) have been sold for a decent amount of money. In fact, Beeple sold an NFT worth US$ 69 million.
+
+In fact, experts consider NFTs to be an upgrade to the usual cryptocurrencies that are used for commercial transactions as it allows for loans and trading for a variety of asset types. Still, digitizing physical assets is hardly anything new but with the blockchain being tamper-free, this can potentially change the way we digitally represent a wide variety of physical assets, from baseball cards to real estate contracts among others.
+
+Yet the most revolutionary aspect of NFTs is how it can change the lives of content creators around the world. Not only can they claim ownership of their work but also enjoy royalties of their work. It’s the reason why a number of artists and musicians are opting to convert their works of art into NFTs. We’ll discuss NFTs in more detail in a future module.
 
