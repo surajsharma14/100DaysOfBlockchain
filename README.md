@@ -291,3 +291,15 @@ In fact, experts consider NFTs to be an upgrade to the usual cryptocurrencies th
 
 Yet the most revolutionary aspect of NFTs is how it can change the lives of content creators around the world. Not only can they claim ownership of their work but also enjoy royalties of their work. It’s the reason why a number of artists and musicians are opting to convert their works of art into NFTs. We’ll discuss NFTs in more detail in a future module.
 
+# Day 19
+## Future Application 4: Metaverse
+
+Ever since Facebook announced the Meta, the idea of a virtual universe has caught on. By definition, the Metaverse has been conceptualized to model the real world as a 3D virtual space that you can use for a number of purposes. Some of these common purposes include shopping, taking classes, virtual tourism, playing games or something as simple as hanging out with friends.
+
+With augmented and virtual reality being able to replicate the real world, it shouldn’t be surprising that the Metaverse is now considered to be the next iteration of the internet. This, for practical purposes, has become an integral part of what Web3 will offer internet users in the near future, thanks to cryptocurrency, NFTs, wallets and blockchain technology.
+
+
+While Decentraland, SandBox, SecondLive and Axie Infinity are prominent examples of the decentralized version of the Metaverse, there are blockchain developers who could take this concept to the next level and not just Big Tech.
+
+Businesses can go global with one interconnected universe where they can take up brand engagement, advertising and ecommerce in such a space. Even if it’s hard to envision a future where the entire internet will be a single universe, it won’t be long before we are able to create such universes for specific purposes.
+
