@@ -303,3 +303,16 @@ While Decentraland, SandBox, SecondLive and Axie Infinity are prominent examples
 
 Businesses can go global with one interconnected universe where they can take up brand engagement, advertising and ecommerce in such a space. Even if it’s hard to envision a future where the entire internet will be a single universe, it won’t be long before we are able to create such universes for specific purposes.
 
+# Day 20
+## Future Application 5: DAOs
+
+A DAO, when expanded, reads as a decentralized autonomous organization. As you can tell, this kind of organization has no centralized leadership nor does it have any hierarchical management, making it ideal for internet-native organizations.
+
+These organizations have been conceptualized to ensure that C-suite executives do not determine the direction of the organization. We’ve all heard stories of CFO making questionable decisions by “cooking the books”. In short, this will never happen with a DAO as it is governed by the members of the DAO based on the tokens that these members are in possession of.
+
+https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module3/image9.png
+
+When it comes to the functioning and rules of such an organization, smart contracts are deployed. For that matter, launching the DAO involves the deployment of a smart contract after which funding is procured in exchange for tokens. Since everything is open and transparent, the smart contracts and the in-built treasuries are available for everyone to see whenever they choose to.
+
+Using this model, it’s safe to invest in a business because the DAO’s smart contracts in place eliminate the need for trust. In addition, with the tokens that they obtain in exchange for the investments, they can now vote to decide the direction of the organization. This is as democratic as an organization can get. Some examples of DAOs include Uniswap, The DAO, Decentraland and BitDAO.
+
