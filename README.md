@@ -27,7 +27,7 @@ It goes without saying that all of us use a service or product offered by Big Te
 
 
 
-As a consequence, your data is sold to companies who would like to sell you more products or services. Literally, every keystroke and mouse click can be tracked when using their services and following which, the algorithms go about serving up more of what you want or need, based on your profile.
+As a consequence, your data is sold to companies who would like to sell you more products or services. Literally, every keystroke and mouse click can be tracked when using their services and following which, the algorithms go about serving up more of what you want or need based on your profile.
 
 In fact, your ISP can literally sell your data based on your browsing history. As unsavory as that might seem, this is the current state of the internet today, where our data is monetised by faceless conglomerates for the purpose of making greater profits.
 
@@ -308,11 +308,28 @@ Businesses can go global with one interconnected universe where they can take up
 
 A DAO, when expanded, reads as a decentralized autonomous organization. As you can tell, this kind of organization has no centralized leadership nor does it have any hierarchical management, making it ideal for internet-native organizations.
 
-These organizations have been conceptualized to ensure that C-suite executives do not determine the direction of the organization. We’ve all heard stories of CFO making questionable decisions by “cooking the books”. In short, this will never happen with a DAO as it is governed by the members of the DAO based on the tokens that these members are in possession of.
+These organizations have been conceptualized to ensure that C-suite executives do not determine the direction of the organization. We’ve all heard stories of CFO making questionable decisions by “cooking the books”. In short, this will never happen with a DAO, as it is governed by the members of the DAO based on the tokens that these members are in possession of.
 
 https://lumos-education-portal-modules.s3.amazonaws.com/intro-to-web3/module3/image9.png
 
-When it comes to the functioning and rules of such an organization, smart contracts are deployed. For that matter, launching the DAO involves the deployment of a smart contract after which funding is procured in exchange for tokens. Since everything is open and transparent, the smart contracts and the in-built treasuries are available for everyone to see whenever they choose to.
+When it comes to the functioning and rules of such an organization, smart contracts are deployed. For that matter, launching the DAO involves the deployment of a smart contract, after which funding is procured in exchange for tokens. Since everything is open and transparent, the smart contracts and the in-built treasuries are available for everyone to see whenever they choose to.
 
-Using this model, it’s safe to invest in a business because the DAO’s smart contracts in place eliminate the need for trust. In addition, with the tokens that they obtain in exchange for the investments, they can now vote to decide the direction of the organization. This is as democratic as an organization can get. Some examples of DAOs include Uniswap, The DAO, Decentraland and BitDAO.
+Using this model, it’s safe to invest in a business because the DAO’s smart contracts eliminate the need for trust. In addition, with the tokens that they obtain in exchange for the investments, they can now vote to decide the direction of the organization. This is as democratic as an organization can get. Some examples of DAOs include Uniswap, The DAO, Decentraland, and BitDAO. contract,DAO,CFOs
 
+# Day 21
+## Current Challenges with Web3
+Not everything is all rainbows and sunshine with Web3. This is not the impression that we’d like to give you. There are plenty of challenges that have arisen over the past few years and which are worth bringing up for your consideration.
+
+Apart from the much-publicized security breaches that have resulted in heavy financial losses, there are certain challenges that Web3 poses to both users and developers. For starters, it’s difficult for Web2 users to adopt Web3 since the barrier to entry is high.
+
+For example, people need to open and use digital wallets, which is something that deters people from experimenting with Web3 in the first place. Another challenge involves not focusing on improving user experience when developing dapps, which, for obvious reasons, is something that Web2 gets absolutely right.
+
+
+Thirdly, with multiple blockchains operating on their own, it’s difficult for users to invest in assets on several platforms, thanks to a lack of interoperability between these platforms. In some cases, while bridges have been built between platforms, they are slow, unreliable and for the most part, inaccessible by most users.
+
+As for challenges that affect Web3 development, the complexity of building Web3 apps, this results in their slow integration due to the number of capabilities that each dapp must possess. Secondly, browser-based Java applications have been at the forefront of Web3 applications.
+
+However, there are other types of applications and none of them use JavaScript in development. Even if libraries in a number of languages are being developed, there’s a lot of headache when it comes to using them in development.
+
+
+Thirdly, due to the unsafe nature of JavaScript, it’s not safe to extend dApps even if there’s no problem with doing the same with protocols. Increasing costs associated with Web3 composability and the dangers of insecure JavaScript dependencies can also make things difficult for Web3 developers.
