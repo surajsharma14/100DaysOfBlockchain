@@ -329,7 +329,7 @@ Thirdly, with multiple blockchains operating on their own, it’s difficult for 
 
 As for challenges that affect Web3 development, the complexity of building Web3 apps, this results in their slow integration due to the number of capabilities that each dapp must possess. Secondly, browser-based Java applications have been at the forefront of Web3 applications.
 
-However, there are other types of applications and none of them use JavaScript in development. Even if libraries in a number of languages are being developed, there’s a lot of headache when it comes to using them in development.
+However, there are other types of applications and none of them use JavaScript in their development. Even if libraries in a number of languages are being developed, there’s a lot of headache when it comes to using them in development.
 
 
 Thirdly, due to the unsafe nature of JavaScript, it’s not safe to extend dApps, even if there’s no problem with doing the same with protocols. Increasing costs associated with Web3 composability and the dangers of insecure JavaScript dependencies can also make things difficult for Web3 developers.
