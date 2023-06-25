@@ -327,7 +327,7 @@ For example, people need to open and use digital wallets, which is something tha
 
 Thirdly, with multiple blockchains operating on their own, it’s difficult for users to invest in assets on several platforms, thanks to a lack of interoperability between these platforms. In some cases, while bridges have been built between platforms, they are slow, unreliable and for the most part, inaccessible by most users.
 
-As for challenges that affect Web3 development, the complexity of building Web3 apps, this results in their slow integration due to the number of capabilities that each dapp must possess. Secondly, browser-based Java applications have been at the forefront of Web3 applications.
+As for challenges that affect Web3 development, the complexity of building Web3 apps results in their slow integration due to the number of capabilities that each dapp must possess. Secondly, browser-based Java applications have been at the forefront of Web3 applications.
 
 However, there are other types of applications, and none of them use JavaScript in their development. Even if libraries in a number of languages are being developed, there’s a lot of headache when it comes to using them in development.
 
