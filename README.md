@@ -333,3 +333,12 @@ However, there are other types of applications, and none of them use JavaScript 
 
 
 Thirdly, due to the unsafe nature of JavaScript, it’s not safe to extend dApps, even if there’s no problem with doing the same with protocols. Increasing costs associated with Web3 composability and the dangers of insecure JavaScript dependencies can also make things difficult for Web3 developers.
+
+# Day 22
+## Wallets 
+
+In the previous module, we looked at the future of Web3 as we get closer and closer to realizing this iteration of the web. Along the way, we also defined future applications of Web3 while also addressing challenges from a user and developer point of view.
+
+![image](https://github.com/surajsharma14/100DaysOfBlockchain/assets/72158521/02500792-eda3-45e0-8e1e-ed7413c6d3e8)
+
+In this module, we will introduce the DeFi sector and its use cases, everything you need to know about crypto wallets as a developer right from the types to the most popular ones available today. Lastly, we will also look at how you can open your very own crypto wallet and start using it as an investor or developer.
